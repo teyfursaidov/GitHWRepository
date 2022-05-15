@@ -9,7 +9,7 @@ public class Main {
     3.send this code to github
 	* */
 
-        for(int i=0; i<=100; i++){
+        for(int i=0; i<=50; i++){
             System.out.println(i);
         }
 
